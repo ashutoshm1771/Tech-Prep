@@ -1,25 +1,25 @@
 # Tech-Prep
 All you have to know before attending a technical interview. <br>
-  Data Structures
-    1. Array
-    2. Trees
-    3. Stacks And Queues
-    4. Matrix
-    5. Bitsets
-    6. Graph
-    7. Heaps
-    8. Linked-Lists
-    9. Tries
-    10. Strings
-  
-  Algorithms
-    1. Recursion and Backtracking
-    2. Dynamic Programming
-    3. Sorting & variations
-    4. Searching & variations
-    5. Hashing & associations
-    6. String algorithms
-    7. Prefix And Suffix Sum
-    8. Greedy Algorithms
-    9. Graph Algorithms
-    10. Ad-Hoc Algorithms
+  Data Structures<br>
+    1. Array<br>
+    2. Trees<br>
+    3. Stacks And Queues<br>
+    4. Matrix<br>
+    5. Bitsets<br>
+    6. Graph<br>
+    7. Heaps<br>
+    8. Linked-Lists<br>
+    9. Tries<br>
+    10. Strings<br>
+  <hr>
+  Algorithms<br>
+    1. Recursion and Backtracking<br>
+    2. Dynamic Programming<br>
+    3. Sorting & variations<br>
+    4. Searching & variations<br>
+    5. Hashing & associations<br>
+    6. String algorithms<br>
+    7. Prefix And Suffix Sum<br>
+    8. Greedy Algorithms<br>
+    9. Graph Algorithms<br>
+    10. Ad-Hoc Algorithms<br>
