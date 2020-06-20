@@ -1,2 +1,2 @@
 # Tech-Prep
-All you have to know before a technical interview.
+All you have to know before attending a technical interview.
