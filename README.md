@@ -12,7 +12,7 @@ All you have to know before attending a technical interview. <br><hr>
     9. Tries<br>
     10. Strings<br>
   <hr>
-  <h3>Algorithms<h3><br>
+  <h3>Algorithms</h3><br>
     1. Recursion and Backtracking<br>
     2. Dynamic Programming<br>
     3. Sorting & variations<br>
