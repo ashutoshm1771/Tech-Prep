@@ -1,6 +1,6 @@
 # Tech-Prep
-All you have to know before attending a technical interview. <br>
-  Data Structures<br>
+All you have to know before attending a technical interview. <br><hr>
+  <h3>Data Structures</h3><br>
     1. Array<br>
     2. Trees<br>
     3. Stacks And Queues<br>
@@ -12,7 +12,7 @@ All you have to know before attending a technical interview. <br>
     9. Tries<br>
     10. Strings<br>
   <hr>
-  Algorithms<br>
+  <h3>Algorithms<h3><br>
     1. Recursion and Backtracking<br>
     2. Dynamic Programming<br>
     3. Sorting & variations<br>
