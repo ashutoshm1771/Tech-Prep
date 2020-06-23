@@ -13,6 +13,7 @@ void disp(vector<vector<int>> v)
             cout<<endl;
         }
 }
+
 void rotateClockwise(vector<vector<int>>& v)
 {
     int row=0,col=0,m=v.size(),n=v[0].size(),prev,cur;
