@@ -3,7 +3,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
 class SinglyLinkedListNode {
     public:
         int data;
