@@ -2,6 +2,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+
 bool isOperand(char c)
 {
     if(c>='a' && c<='z')return true;
