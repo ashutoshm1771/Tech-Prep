@@ -31,6 +31,7 @@ struct Queue
         return x;
     }
 };
+
 int main()
 {
     Queue q;
