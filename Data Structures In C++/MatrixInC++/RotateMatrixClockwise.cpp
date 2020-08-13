@@ -2,6 +2,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+
 void disp(vector<vector<int>> v)
 {
     int m=v.size(),n=v[0].size();
