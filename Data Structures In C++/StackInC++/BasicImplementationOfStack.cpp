@@ -3,6 +3,7 @@
 #include<iostream>
 using namespace std;
 #define MAX 100
+
 class Stack{
     int top;
     public:
