@@ -8,6 +8,7 @@ bool isOperand(char c)
     if(c>='a' && c<='z')return true;
     return false;
 }
+
 string postToInfix(string s)
 {
     stack<string> st;
