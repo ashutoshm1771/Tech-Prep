@@ -56,7 +56,6 @@ void rotateClockwise(vector<vector<int>>& v)
         col++;
     }
 }
-
 int main()
 {
     int m,n;
