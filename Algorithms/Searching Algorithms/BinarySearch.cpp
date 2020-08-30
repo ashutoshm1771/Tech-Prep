@@ -34,6 +34,7 @@ int binSearch(vector<int> v,int x)
         return f;
     else return -1;
 }
+
 int main()
 {
     int n,x;
