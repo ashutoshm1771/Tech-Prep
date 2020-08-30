@@ -26,6 +26,7 @@ int recBinSearch(vector<int> v,int low,int high,int x)
     }
     return -1;
 }
+
 int binSearch(vector<int> v,int x)
 {
     int f=iterBinSearch(v,0,v.size()-1,x);
