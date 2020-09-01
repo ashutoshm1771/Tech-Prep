@@ -1,5 +1,8 @@
+// Author : Ashutosh Mishra
+
 #include<bits/stdc++.h>
 using namespace std;
+
 bool linSearch(vector<int> v,int x)
 {
     for(auto t: v)
