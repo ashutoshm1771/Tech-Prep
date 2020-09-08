@@ -16,7 +16,6 @@ int findPeakUtil(vector<int> v,int low,int high)
     }
     return -1;
 }
-
 int findPeak(vector<int> v)
 {
     return findPeakUtil(v,0,v.size()-1);
