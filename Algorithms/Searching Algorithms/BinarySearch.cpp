@@ -1,5 +1,3 @@
-// Author : Ashutosh Mishra
-
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -14,7 +12,6 @@ int iterBinSearch(vector<int> v,int low,int high,int x)
     }
     return -1;
 }
-
 int recBinSearch(vector<int> v,int low,int high,int x)
 {
     if(low<=high)
@@ -26,7 +23,6 @@ int recBinSearch(vector<int> v,int low,int high,int x)
     }
     return -1;
 }
-
 int binSearch(vector<int> v,int x)
 {
     int f=iterBinSearch(v,0,v.size()-1,x);
@@ -34,7 +30,6 @@ int binSearch(vector<int> v,int x)
         return f;
     else return -1;
 }
-
 int main()
 {
     int n,x;
