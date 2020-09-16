@@ -18,6 +18,7 @@ int findNumOfPairs(vector<int> v,int x)
     }
     return ans;
 }
+
 int main()
 {
     int n,x;
