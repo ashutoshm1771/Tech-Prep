@@ -2,6 +2,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+
 bool isSame(int n)
 {
     int numDig=floor(log10(n))+1,last=n%10;
