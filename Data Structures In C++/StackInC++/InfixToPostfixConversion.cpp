@@ -2,6 +2,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+
 int precedence(char c)
 {
     if(c=='^')return 3;
