@@ -12,7 +12,6 @@ bool isSame(int n)
     }
     return (n==last) ? true : false; 
 }
-
 int main()
 {
     int l,r,c=0;
