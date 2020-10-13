@@ -36,7 +36,6 @@ class Graph
     }
   }
 };
-
 int main()
 {
     Graph g(4); 
