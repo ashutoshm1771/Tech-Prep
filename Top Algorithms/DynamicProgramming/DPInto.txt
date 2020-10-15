@@ -1,0 +1,15 @@
+DP ( Dynamic Programming )
+
+- Storing previous values for further usage.
+- We use it for 3 reason.
+ -> Combinatorics : Count something , often number of ways
+ -> Greedy : Minimize of maximize certain value
+  	   : YES / NO questions
+
+Comparison 
+
+Iteration          	Recursion
+- Speed                 - Easier to apply
+- Easier Complexity     - Fewer states
+- Shorter code          - Order doesn't matter
+- Harder techniques

@@ -1,5 +1,3 @@
-// Author : Ashutosh Mishra
-
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -18,7 +16,6 @@ int findNumOfPairs(vector<int> v,int x)
     }
     return ans;
 }
-
 int main()
 {
     int n,x;
