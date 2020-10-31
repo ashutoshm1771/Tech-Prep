@@ -32,4 +32,5 @@ int main()
  }
  cout<<countTrip(v,num);
  return 0;
+ 
 }
