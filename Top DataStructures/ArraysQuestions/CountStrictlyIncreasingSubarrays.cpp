@@ -20,7 +20,6 @@ int countSubA(vector<int> v)
  }
  return cnt;
 }
-
 int main()
 {
  int n;
