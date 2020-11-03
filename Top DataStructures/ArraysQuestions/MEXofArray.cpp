@@ -1,6 +1,7 @@
 // Author : Ashutosh Mishra
 
 #include<bits/stdc++.h>
+
 using namespace std;
 
 int firstMissing(vector<int> v) // O(nlogn) time and O(1) space
