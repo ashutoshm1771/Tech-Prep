@@ -14,6 +14,7 @@ class Node{
  }
 };
 typedef Node* node;
+
 void pushFront(node* head,int newData)
 {
  node newHead=new Node(newData);
