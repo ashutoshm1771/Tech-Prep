@@ -32,7 +32,6 @@ class SinglyLinkedList {
             } else {
                 this->tail->next = node;
             }
-
             this->tail = node;
         }
 };
