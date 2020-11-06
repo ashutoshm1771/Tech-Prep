@@ -69,6 +69,7 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
  * };
  *
  */
+
 SinglyLinkedListNode* insertNodeAtPosition(SinglyLinkedListNode* head, int data, int position) {
     SinglyLinkedListNode *prev=new SinglyLinkedListNode(data);
     SinglyLinkedListNode *t=new SinglyLinkedListNode(data);
