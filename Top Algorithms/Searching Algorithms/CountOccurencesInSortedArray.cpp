@@ -12,6 +12,7 @@ int getRight(vector<int> v,int l,int r,int x)
     }
     return l;
 }
+
 int getLeft(vector<int> v,int l,int r,int x)
 {
     int m;
