@@ -14,6 +14,7 @@ int findFloor(vector<int> v,int x)
     }
     return v[l];
 }
+
 int main()
 {
     int n,x;
