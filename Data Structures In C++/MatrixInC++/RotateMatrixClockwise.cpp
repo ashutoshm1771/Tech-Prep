@@ -65,7 +65,7 @@ int main()
     for(int i=0;i<m;i++)
     {
         for(int j=0;j<n;j++)
-            v[i][j]=i*n+j+1; // time saver --> row_idx * num_of_col + col_idx + 1 --> sequential filling
+            v[i][j]=i*n+j+1; // time saver --> row_idx * num_of_col + col_idx + 1 --> sequential filling.
     }
     disp(v);
     rotateClockwise(v);
