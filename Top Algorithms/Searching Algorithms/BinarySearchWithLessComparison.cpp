@@ -16,6 +16,7 @@ int binSearch(vector<int> v,int x)
     if(v[l]==x)return l;
     return -1;
 }
+
 int main()
 {
     int n,x;
