@@ -12,6 +12,7 @@ int iterBinSearch(vector<int> v,int low,int high,int x)
     }
     return -1;
 }
+
 int recBinSearch(vector<int> v,int low,int high,int x)
 {
     if(low<=high)
