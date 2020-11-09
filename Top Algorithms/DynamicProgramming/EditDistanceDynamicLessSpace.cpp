@@ -13,7 +13,6 @@ int editDistance(string a,string b,int m,int n)
  vector<vector<int>> dp(2,vector<int>(m+1));
  for(int i=0;i<=m;i++)
   dp[0][i]=0;
- 
  for(int i=1;i<=n;i++)
  {
   for(int j=0;j<=m;j++)
