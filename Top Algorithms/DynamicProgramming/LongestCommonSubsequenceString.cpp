@@ -24,6 +24,7 @@ int lcs( string X, string Y, int m, int n )
           
     return L[m][n];  
 }  
+
 int LCS(string a,string b,int m,int n)
 {
  //int m=a.size(),n=b.size();
