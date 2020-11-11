@@ -26,6 +26,7 @@ int fiboNoExtraSpace(int n)
  }
  return cur;
 }
+
 int main()
 {
  int n;
