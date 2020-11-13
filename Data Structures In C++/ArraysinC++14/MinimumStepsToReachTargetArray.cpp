@@ -3,6 +3,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
+
 int minSteps(vector<int>& v)
 {
     int n=v.size(),ans=0; 
