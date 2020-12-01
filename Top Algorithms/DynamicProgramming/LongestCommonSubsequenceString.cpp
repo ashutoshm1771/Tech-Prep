@@ -55,7 +55,6 @@ int main()
  cout<<lcs(a,b,a.size(),b.size())<<" "<<LCS(a,b,a.size(),b.size());
  return 0;
 }
-
 /*
 AGGTAB
 GXTXAYB
