@@ -13,7 +13,6 @@ class Node{
   next=NULL;
  }
 };
-
 typedef Node* node;
 
 void pushFront(node* head,int newData)
