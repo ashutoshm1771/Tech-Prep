@@ -43,6 +43,5 @@ int main()
    cin>>ip;
    pushFront(&head,ip);
  }
- 
  printList(head);
 }
