@@ -32,6 +32,7 @@ void printList(node head)
   temp=temp->next;
  }
 }
+
 int main()
 {
  int n,ip;
