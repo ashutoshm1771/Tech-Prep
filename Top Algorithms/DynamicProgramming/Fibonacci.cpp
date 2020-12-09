@@ -33,5 +33,6 @@ int main()
  cin>>n;
  cout<<fiboExtraSpace(n)<<endl;
  cout<<fiboNoExtraSpace(n)<<endl;
+
  return 0;
 }
