@@ -54,5 +54,4 @@ int main()
  cout<<firstMissing(v)<<endl;
  cout<<firstMissing2(v)<<endl<<firstMissing3(v)<<endl;
  return 0;
- 
 }
