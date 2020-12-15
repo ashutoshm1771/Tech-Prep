@@ -1,8 +1,5 @@
-// Author : Ashutosh Mishra
-
 #include<bits/stdc++.h>
 using namespace std;
-
 
 bool isMatch(string text,string pattern)
 {
@@ -33,8 +30,8 @@ bool isMatch(string text,string pattern)
 
     }
     return t[text.size()][pattern.size()];
-}
 
+}
 int main()
 {
     string text,pattern;

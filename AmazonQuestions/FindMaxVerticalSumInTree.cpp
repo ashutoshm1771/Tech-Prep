@@ -1,5 +1,3 @@
-// Ashutosh Mishra
-
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -11,7 +9,6 @@ struct Node{
         left=right=NULL;
     }
 };
-
 typedef struct Node* tptr;
 map<int,int> m;
 void processHashTable(tptr root,int hd)
