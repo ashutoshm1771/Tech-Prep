@@ -22,6 +22,7 @@ bool isBST(tptr root)
 {
     return isBSTUtil(root,INT_MIN,INT_MAX);
 }
+
 bool isBSTUsingInorder(tptr root)
 {
     static tptr prev=NULL;
