@@ -11,6 +11,7 @@ struct Node{
     }
 };
 typedef struct Node* tptr;
+
 bool isBSTUtil(tptr root,int min,int max)
 {
     if(root==NULL)return true;
