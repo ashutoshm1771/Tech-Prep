@@ -3,7 +3,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void moveZeros(vector<int>& v)
+void moveZeros(vector<int>& v) // Pass by reference
 {
  int count = 0 , n = v.size();
  for(int i=0;i<n;i++)
