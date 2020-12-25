@@ -25,7 +25,7 @@ int main()
  for(int i=0;i<n;i++)
   cin>>v[i];
  
- moveZeros(v);
+ moveZeros(v); // void function
  
  for(int i=0;i<n;i++)
   cout<<v[i]<<" ";
