@@ -21,6 +21,7 @@ void findSub(vector<int> v,int k)
   }
   curSum += v[i];
  }
+ 
  return ;
 }
 
