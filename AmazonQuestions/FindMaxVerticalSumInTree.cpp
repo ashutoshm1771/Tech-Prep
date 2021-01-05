@@ -11,6 +11,7 @@ struct Node{
         left=right=NULL;
     }
 };
+
 typedef struct Node* tptr;
 map<int,int> m;
 void processHashTable(tptr root,int hd)
