@@ -46,7 +46,6 @@ int main()
  root->right->right = new TNode(5);
  root->right->left = new TNode(7);
  sTree(root);
- 
  inorder(root);
  return 0;
 }
