@@ -22,6 +22,7 @@ void processHashTable(tptr root,int hd)
         processHashTable(root->right,hd+1);
     }
 }
+
 int maxVerticalSum(tptr root)
 {
     processHashTable(root,0);
