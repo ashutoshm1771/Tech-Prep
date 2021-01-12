@@ -45,6 +45,5 @@ int main()
  root->left->left = new TNode(4);
  root->left->left = new TNode(5);
  isHBalanced(root) ? cout<<"Balanced" : cout<<"Not Balanced";
- 
  return 0;
 }
