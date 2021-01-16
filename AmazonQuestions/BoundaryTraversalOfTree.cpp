@@ -31,6 +31,7 @@ void printBoundaryLeft(tptr root)
   }
  }
 }
+
 void printBoundaryRight(tptr root)
 {
  if(root)
