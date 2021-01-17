@@ -27,4 +27,5 @@ int main()
  cin>>s;
  checkBalance( s ) ? cout<<"Balanced" : cout<<"UnBalanced";
  return 0;
+
 }
