@@ -32,4 +32,5 @@ int main()
   cin>>v[i];
  printGreater(v);
  return 0;
+
 }
