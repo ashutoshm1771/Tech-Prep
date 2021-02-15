@@ -33,4 +33,5 @@ int main()
   cin>>v[i];
  findSub(v,k);
  return 0;
+ 
 }
