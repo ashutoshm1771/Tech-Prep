@@ -1,6 +1,7 @@
 // Author : Ashutosh Mishra
 
 #include<bits/stdc++.h>
+
 using namespace std;
 
 int findNumOfPairs(vector<int> v,int x)
