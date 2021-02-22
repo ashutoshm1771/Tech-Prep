@@ -13,6 +13,7 @@ struct Node{
 };
 
 typedef struct Node* tptr;
+
 map<int,int> m;
 
 void processHashTable(tptr root,int hd)
