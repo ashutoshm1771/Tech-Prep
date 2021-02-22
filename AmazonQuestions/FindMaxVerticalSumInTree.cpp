@@ -44,5 +44,4 @@ int main()
     root->right->right=new Node(6);
     cout<<maxVerticalSum(root)<<endl;
     return 0;
-    
 }
