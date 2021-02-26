@@ -68,6 +68,7 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
  * };
  *
  */
+
 void reversePrint(SinglyLinkedListNode* head) {
     vector<int> v;
     while(head!=nullptr)
