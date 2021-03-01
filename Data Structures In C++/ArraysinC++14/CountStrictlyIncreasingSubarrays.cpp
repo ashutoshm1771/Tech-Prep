@@ -4,6 +4,7 @@
 #include<vector>
 #define endl '\n';
 using namespace std;
+
 int countSub(vector<int> v)
 {
     int ans=0,n=v.size(),temp,i,j;
