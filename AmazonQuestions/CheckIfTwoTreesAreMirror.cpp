@@ -44,6 +44,7 @@ int main()
  root1->left = new TNode(2); root2->right = new TNode(2);
  root1->left->left = new TNode(3); root2->right->right = new TNode(3);
  root1->left->right = new TNode(4); root2->right->left = new TNode(4);
+ 
  checkMirror(root1,root2) ? cout<<"Mirrors" : cout<<"Not Mirrors";
  return 0;
 }
