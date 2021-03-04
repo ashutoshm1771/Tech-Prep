@@ -8,6 +8,7 @@ using namespace std;
 struct Queue
 {
     stack<int> s1,s2;
+    
     void enQueue(int x)
     {
         s1.push(x);
