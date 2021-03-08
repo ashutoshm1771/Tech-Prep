@@ -14,7 +14,6 @@ int countTrip(vector<int>& v,int num)
   {
    if(v[i]+v[j]+v[k]>=num)k--;
    else{
-    
     j++;
    }
   }
