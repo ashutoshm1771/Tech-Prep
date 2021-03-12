@@ -38,6 +38,7 @@ int main()
  int n,ip;
  cin>>n;
  node head=NULL;
+  
  while(n--)
  {
    cin>>ip;
