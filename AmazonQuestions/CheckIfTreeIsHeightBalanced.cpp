@@ -13,7 +13,6 @@ struct TNode
   left = right = NULL;
  }
 };
-
 typedef struct TNode* tptr;
 
 int height(tptr root)
