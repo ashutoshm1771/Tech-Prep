@@ -27,4 +27,5 @@ int main()
     int f=binSearch(v,x);
     (f==-1) ? cout<<"Not Found" : cout<<"Found at "<<f;
     return 0;
+    
 }
