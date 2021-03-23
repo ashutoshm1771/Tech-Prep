@@ -32,4 +32,5 @@ int main()
     int f=findPeak(v);
     (f==-1) ? cout<<"No Peak" : cout<<"Peak is at "<<f;
     return 0;
+    
 }
