@@ -19,6 +19,7 @@ int findMin(vector<int> v)
 {
     return findMinUtil(v,0,v.size()-1);
 }
+
 int main()
 {
     int n;
