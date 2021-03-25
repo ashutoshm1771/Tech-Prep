@@ -34,6 +34,7 @@ int countOccurences(vector<int> v,int x)
     if(v[right]==x && v[left]==x)return right-left+1;
     else return 0;
 }
+
 int main()
 {
     int n,x;
