@@ -26,6 +26,7 @@ int getLeft(vector<int> v,int l,int r,int x)
     }
     return l;
 }
+
 int countOccurences(vector<int> v,int x)
 {
     int right=getRight(v,0,v.size()-1,x);
