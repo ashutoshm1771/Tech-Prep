@@ -30,6 +30,7 @@ int main()
     for(int i=0;i<n;i++)
         cin>>v[i];
     int f=findPeak(v);
+    
     (f==-1) ? cout<<"No Peak" : cout<<"Peak is at "<<f;
     return 0;
 }
