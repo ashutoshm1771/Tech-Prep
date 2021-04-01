@@ -17,6 +17,7 @@ class Graph
   {
    adj[v].push_back(u);
   }
+ 
   void DFS(int s)
   {
    stack<int> st;
