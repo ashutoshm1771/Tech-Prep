@@ -70,6 +70,7 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
  * };
  *
  */
+
 bool compare_lists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {
     while(head1!=NULL && head2!=NULL)
     {
