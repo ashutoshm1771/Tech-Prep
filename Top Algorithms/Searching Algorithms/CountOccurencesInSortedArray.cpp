@@ -44,4 +44,5 @@ int main()
         cin>>v[i];
     cout<<countOccurences(v,x)<<endl;
     return 0;
+    
 }
