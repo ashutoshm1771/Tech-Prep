@@ -69,6 +69,7 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
  * };
  *
  */
+
 SinglyLinkedListNode* deleteNode(SinglyLinkedListNode* head, int position) {
     if (position == 0)
     {
