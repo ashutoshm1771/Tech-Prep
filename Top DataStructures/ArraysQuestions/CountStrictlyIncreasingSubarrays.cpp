@@ -32,5 +32,6 @@ int main()
  }
  cout<<countSubA(v);
  return 0;
+ 
 }
 
