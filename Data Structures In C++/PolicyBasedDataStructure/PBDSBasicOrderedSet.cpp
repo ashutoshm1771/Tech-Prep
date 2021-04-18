@@ -16,7 +16,6 @@ int main()
         oSet.insert(n);
         cin>>n;
     }
-
     cout<<*(oSet.find_by_order(0))<<endl; // 1st samllest element
     cout<<*(oSet.find_by_order(1))<<endl; // 2nd smallest element
     cout<<*(oSet.find_by_order(2))<<endl; // 3rd smallest element
