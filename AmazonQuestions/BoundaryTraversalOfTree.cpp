@@ -74,6 +74,7 @@ void printBoundary(tptr root)
   printBoundaryRight(root->right);
  }
 }
+
 int main()
 {
  tptr root = new TNode(1);
